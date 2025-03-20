@@ -69,6 +69,7 @@ main {
 .video-card {
   cursor: pointer;
   background-color: #fff;
+  border-radius: 8px;
 }
 
 .video-card:hover {
@@ -92,6 +93,7 @@ a {
   width: 100%;
   aspect-ratio: 16 / 9;
   object-fit: cover;
+  border-radius: 6px;
 }
 
 .video-info {
